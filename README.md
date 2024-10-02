@@ -12,16 +12,9 @@ unconference participants.
 
 Due to the limited number of spaces, we require all interested participants to fill
 out [this](https://forms.gle/DE7sMXLUCzHQhaJx6) application form. Only those who
-complete the form will be eligible to participate. Please submit your application ASAP
-to secure your spot.
-
-To ensure meaningful collaboration, we will prioritize applicants who are committed to
-making ongoing contributions or highly viable projects and tools that can scale and help
-drive broader adoption of GKS products across the community.
-
-**The application will close on Wednesday, October 2nd.** Applicants will be
-notified of the decision regarding their application via email by Friday, October 4th.
-We look forward to your potential participation!
+complete the form will be eligible to participate. Spots will be allocated on a 
+first-come, first-served basis, so please submit your application ASAP to secure your
+spot. You will be notified via email within 1-3 business days if you've secured a spot.
 
 ## Project Proposals
 
