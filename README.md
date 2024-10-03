@@ -4,9 +4,9 @@ Welcome to the repository for GA4GH Genomic Knowledge Standards (GKS) Unconferen
 
 We will be hosting a unconference as an ancillary event at
 [ASHG](https://www.ashg.org/meetings/2024meeting/) on Monday, November 4th, 2024 from
-8 AM - 4 PM. The location is at the Hyatt Regency Denver at Colorado Convention Center
-in room Mineral A. This repository will contain project proposals from registered
-unconference participants.
+8 AM - 4 PM. **Registration is free!** The location is at the Hyatt Regency Denver at 
+Colorado Convention Center in room Mineral A. This repository will contain project 
+proposals from registered unconference participants.
 
 ## Participation Application and Selection
 
