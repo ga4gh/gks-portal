@@ -1,6 +1,7 @@
 name: project proposal
-description: ASHG Unconference Project Proposal
+description: GKS Connect Hackathon 2025 Project Proposal
 title: "[Project title]"
+labels: GA4GH-Connect-2025
 
 body:
   - type: input
