@@ -9,13 +9,14 @@ participation fee will be collected upon registration.
 
 ## Registration
 
-We expect participants to attend both days for the full duration. If you cannot meet
-this commitment but still wish to participate, please email <lbabb@broadinstitute.org>
-and <kori.kuzma@nationwidechildrens.org>.
+We are requiring participants to attend both days for the full duration. If you cannot
+meet this commitment but still wish to participate, please email
+<lbabb@broadinstitute.org> and <kori.kuzma@nationwidechildrens.org>.
 
 **Registration is just $20!** With only 30 spots available, registration will be on a
-first-come, first-served basis. Please register [here](INSERT_LINK) ASAP to secure your
-spot. Only registered participants will be eligible to participate.
+first-come, first-served basis. Please register
+[here](https://broadinstitute.swoogo.com/ga4gh-connect-GKS-hackathon-2025) ASAP to
+secure your spot. Only registered participants will be eligible to participate.
 
 ## Project Proposals
 
