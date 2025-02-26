@@ -37,8 +37,34 @@ generate the most interest and engagement.
 
 ## Schedule
 
-Sunday, 30 March from 12:00 to 17:00 EDT\
-Monday, 31 March from 08:00 to 17:00 EDT
+### Sunday, 30 March
+
+| Time | Activity |
+| ---- | -------- |
+| 11:30 - 12:00 | Arrive |
+| 12:00 - 12:20 | Meet & Grab Lunch |
+| 12:20 - 12:50 | Project Proposals |
+| 12:50 - 13:00 | Self-assortment into projects |
+| 13:00 - 14:50 | Work on projects |
+| 14:50 - 15:05 | Break |
+| 15:05 - 16:55 | Work on projects |
+| 16:55 - 17:00 | Wrap |
+| 17:00 - 17:30 | Walk to restaurant |
+| 17:30 - 20:30 | Dinner |
+
+### Monday, 31 March
+
+| Time | Activity |
+| ---- | -------- |
+| 07:30 - 08:00 | Arrive |
+| 08:00 - 08:30 | Coffee & Snacks |
+| 08:30 - 08:50 | Standup |
+| 08:50 - 12:00 | Work on projects |
+| 12:00 - 13:00 | Lunch |
+| 13:00 - 15:30 | Work on projects |
+| 15:30 - 15:45 | Break |
+| 15:45 - 16:45 | Work on projects |
+| 16:45 - 17:00 | Wrap |
 
 ## Questions?
 
