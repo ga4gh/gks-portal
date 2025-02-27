@@ -39,6 +39,8 @@ generate the most interest and engagement.
 
 ### Sunday, 30 March
 
+Location: [415 Main Street, Cambridge MA, 02142](https://g.co/kgs/n4Yzknv)
+
 | Time | Activity |
 | ---- | -------- |
 | 11:30 - 12:00 | Arrive |
@@ -53,6 +55,8 @@ generate the most interest and engagement.
 | 17:30 - 20:30 | Dinner |
 
 ### Monday, 31 March
+
+Location: [300 Binney St, Cambridge, MA 02142](https://g.co/kgs/p6RSyw5)
 
 | Time | Activity |
 | ---- | -------- |
