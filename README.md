@@ -43,7 +43,7 @@ Location: [300 Binney St, Cambridge, MA 02142](https://g.co/kgs/p6RSyw5)
 
 | Time | Activity |
 | ---- | -------- |
-| 11:30 - 12:00 | Arrive |
+| 11:00 - 12:00 | Arrive |
 | 12:00 - 12:20 | Meet & Grab Lunch |
 | 12:20 - 12:50 | Project Proposals |
 | 12:50 - 13:00 | Self-assortment into projects |
