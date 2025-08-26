@@ -30,7 +30,7 @@ To propose a new project, please submit your idea using our
 
 If you would like to re-use an existing issue from a prior hackathon, please add the
 GKS Think Tank label and update the issue to include the
-`Required Maintainer(s) Attendance` section.
+[`Required Maintainer(s) Attendance` section](https://github.com/ga4gh/gks-portal/blob/update-organization-and-gks-think-tank/.github/ISSUE_TEMPLATE/think-tank-proposal.yaml).
 
 Check out the repository [proposal tracker](https://github.com/ga4gh/gks-portal/issues)
 and express your interest in proposed hackathon projects with
