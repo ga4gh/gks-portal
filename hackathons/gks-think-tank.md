@@ -1,7 +1,7 @@
 # GKS Think Tank
 
 GKS Think Tank is a monthly virtual hackathon held on the **last Wednesday of every month**,
-from **2 PM - 3:50 PM EST**.
+from **2 PM - 3:50 PM EST**. To be alerted about upcoming Think Tanks, subscribe to the [Genomic Knowledge Standards Work Stream](https://www.ga4gh.org/work_stream/genomic-knowledge-standards/) or watch for announcements on social media (e.g., [Bluesky](https://bsky.app/profile/ga4gh.org), [LinkedIn](https://www.linkedin.com/company/ga4gh/posts/?feedView=all) or [X](https://x.com/GA4GH)).
 
 This is an **informal** space to:
 
