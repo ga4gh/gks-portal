@@ -37,7 +37,7 @@ Check out the repository [proposal tracker](https://github.com/ga4gh/gks-portal/
 and express your interest in proposed hackathon projects with
 [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)
 on the top-level comment. If you want to see a proposed project clarified or otherwise
-revised, add a comment to the issue and get a discussion going!
+revised, add a comment to the issue and get a discussion going! Your engagement is essential because the Genomic Knowledge Standards Work Stream heavily relies upon [community feedback to direct development efforts](https://vrs.ga4gh.org/en/stable/appendices/maturity_model.html).
 
 ### The Week of the GKS Think Tank meeting
 
