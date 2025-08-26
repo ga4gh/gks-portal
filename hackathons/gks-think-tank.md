@@ -32,7 +32,8 @@ If you would like to re-use an existing issue from a prior hackathon, please add
 GKS Think Tank label and update the issue to include the
 [`Required Maintainer(s) Attendance` section](https://github.com/ga4gh/gks-portal/blob/update-organization-and-gks-think-tank/.github/ISSUE_TEMPLATE/think-tank-proposal.yaml).
 
-Check out the repository [proposal tracker](https://github.com/ga4gh/gks-portal/issues)
+#### Expressing interest
+Check out the repository [proposal tracker](https://github.com/ga4gh/gks-portal/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22GKS%20Think%20Tank%22). 
 and express your interest in proposed hackathon projects with
 [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)
 on the top-level comment. If you want to see a proposed project clarified or otherwise
