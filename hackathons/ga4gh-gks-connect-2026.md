@@ -1,7 +1,7 @@
 # GA4GH GKS Connect 2026 Hackathon
 
 The GA4GH Genomic Knowledge Standards (GKS) Work Stream will be hosting an in-person
-hackathon immediately prior to Connect on **Monday, 13 April from 08:00 to 17:00**. We
+hackathon immediately prior to Connect on **Monday, 13 April from 09:00 to 17:00**. We
 invite software developers and data modelers committed to making ongoing contributions
 to GKS to participate in this highly interactive and collaborative technical session.
 
@@ -40,14 +40,12 @@ Location: [McGill Genome Centre](https://maps.app.goo.gl/BCkUEY8r7rihyNPr9)
 
 | Time | Activity |
 | ---- | -------- |
-| 08:00 - 08:30 | Arrival & Meet and Greet |
-| 08:30 - 08:50 | Project Proposals |
-| 08:50 - 09:00 | Self-assortment into projects |
-| 09:00 - 12:00 | Work on projects |
+| 09:00 - 09:30 | Arrival & Meet and Greet |
+| 09:30 - 09:50 | Project Proposals |
+| 09:50 - 10:00 | Self-assortment into projects |
+| 10:00 - 12:00 | Work on projects |
 | 12:00 - 13:00 | Lunch |
-| 13:00 - 15:30 | Work on projects |
-| 15:30 - 15:45 | Break |
-| 15:45 - 16:30 | Work on projects |
+| 13:00 - 16:30 | Work on projects |
 | 16:30 - 17:00 | Wrap |
 
 ## Questions?
