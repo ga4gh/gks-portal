@@ -1,7 +1,7 @@
 name: project proposal
-description: GKS Connect Hackathon 2025 Project Proposal
+description: GKS Connect Hackathon 2026 Project Proposal
 title: "[Project title]"
-labels: GA4GH-Connect-2025
+labels: GA4GH-Connect-2026
 
 body:
   - type: input
@@ -30,5 +30,15 @@ body:
     attributes:
       label: Required Skills
       description: List any skillset necessary or beneficial for participants to contribute to the project, e.g. Python, reStructuredText, Rust, UML
+    validations:
+      required: true
+  - type: dropdown
+    id: session_duration
+    attributes:
+      label: Session Duration
+      description: Select whether this proposal is designed as a half-day or full-day session.
+      options:
+        - Half-Day Session
+        - Full-Day Session
     validations:
       required: true

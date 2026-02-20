@@ -5,6 +5,10 @@ This repository contains information on upcoming Global Alliance for Genomics an
 
 ## Hackathons
 
+### Upcoming Hackathons
+
+* [GA4GH GKS Connect 2026](./hackathons/ga4gh-gks-connect-2026.md): Monday, 13 April
+
 ### GKS Think Tank
 
 GKS Think Tank is a monthly virtual hackathon held on the **last Wednesday of every month**,
