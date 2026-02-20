@@ -1,20 +1,17 @@
 # GA4GH GKS Connect 2026 Hackathon
 
-The GA4GH Genomic Knowledge Standards (GKS) Work Stream will be hosting a hackathon
-immediately prior to Connect on **Monday, 13 April from 08:00 to 17:00**. We invite
-software developers and data modelers committed to making ongoing contributions to GKS
-to participate in this highly interactive and collaborative technical session.
+The GA4GH Genomic Knowledge Standards (GKS) Work Stream will be hosting an in-person
+hackathon immediately prior to Connect on **Monday, 13 April from 08:00 to 17:00**. We
+invite software developers and data modelers committed to making ongoing contributions
+to GKS to participate in this highly interactive and collaborative technical session.
 
 ## Registration
 
 **Registration is free!** With only 30 spots available, registration will be on a
-first-come, first-served basis. Registration form will be coming soon.
-
-<!-- Please register
-[here](https://broadinstitute.swoogo.com/ga4gh-connect-GKS-hackathon-2025) ASAP to
-secure your spot. Only registered participants will be eligible to participate.
-We are requiring participants to attend both days for the full duration. If you cannot
-meet this commitment but still wish to participate, you will be added to a waitlist. -->
+first-come, first-served basis. Please register [here](https://forms.gle/92GvTMuY34x9R6XU8)
+ASAP to secure your spot. Only registered participants will be eligible to participate.
+We are requiring participants to attend in-person for the full duration. If you cannot
+meet this commitment but still wish to participate, you will be added to a waitlist.
 
 ## Project Proposals
 
