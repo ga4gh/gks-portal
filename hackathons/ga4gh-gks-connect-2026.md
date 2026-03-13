@@ -40,7 +40,7 @@ Location: [McGill Genome Centre](https://maps.app.goo.gl/BCkUEY8r7rihyNPr9)
 
 | Time | Activity |
 | ---- | -------- |
-| 09:00 - 09:30 | Arrival & Meet and Greet |
+| 09:00 - 09:30 | Arrival & Meet and Greet with Tim Hortons coffee & pastries |
 | 09:30 - 09:50 | Project Proposals |
 | 09:50 - 10:00 | Self-assortment into projects |
 | 10:00 - 12:30 | Work on projects (2.5h) |
