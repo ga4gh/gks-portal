@@ -43,10 +43,10 @@ Location: [McGill Genome Centre](https://maps.app.goo.gl/BCkUEY8r7rihyNPr9)
 | 09:00 - 09:30 | Arrival & Meet and Greet |
 | 09:30 - 09:50 | Project Proposals |
 | 09:50 - 10:00 | Self-assortment into projects |
-| 10:00 - 12:00 | Work on projects |
-| 12:00 - 13:00 | Lunch |
-| 13:00 - 16:30 | Work on projects |
-| 16:30 - 17:00 | Wrap |
+| 10:00 - 12:30 | Work on projects (2.5h) |
+| 12:30 - 13:30 | Lunch from [Bossa](https://www.bossa.ca/) (provided) |
+| 13:30 - 16:00 | Work on projects (2.5h) |
+| 16:00 - 17:00 | Wrap |
 
 ## Questions?
 
