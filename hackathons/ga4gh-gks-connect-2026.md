@@ -28,9 +28,9 @@ revised, add a comment to the issue and get a discussion going!
 
 ## Proposal Selection
 
-Proposals with most the most interest and engagement (via comments on the project
-proposal) will be selected. Projects will be selected before the start of the hackathon
-to have more coding time.
+Proposals with the most interest and engagement (via comments on the project proposal)
+will be selected. Projects will be selected before the start of the hackathon to have
+more coding time.
 
 ## Connecting to Guest WiFi
 
