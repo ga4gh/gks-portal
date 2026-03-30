@@ -36,7 +36,7 @@ generate the most interest and engagement.
 
 Steps for signing into the guest WiFi can be found [here](https://www.mcgill.ca/it/personnes/guest-wifi).
 
-## Tentative Schedule
+## Schedule
 
 ### Monday, 13 April
 
@@ -44,10 +44,9 @@ Location: [McGill Genome Centre](https://maps.app.goo.gl/BCkUEY8r7rihyNPr9)
 
 | Time | Activity |
 | ---- | -------- |
-| 09:00 - 09:30 | Arrival & Meet and Greet with Tim Hortons coffee & pastries (provided) |
-| 09:30 - 09:50 | Project Proposals |
-| 09:50 - 10:00 | Self-assortment into projects |
-| 10:00 - 12:30 | Work on projects (2.5h) |
+| 08:30 - 09:00 | Arrival & Meet and Greet with Tim Hortons coffee & pastries (provided) |
+| 09:00 - 09:15 | Self-assortment into projects (hard start) |
+| 09:15 - 12:30 | Work on projects (3.25 hours) |
 | 12:30 - 13:30 | Lunch from [Bossa](https://www.bossa.ca/) (provided) |
 | 13:30 - 16:00 | Work on projects (2.5h) |
 | 16:00 - 17:00 | Wrap |
