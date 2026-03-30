@@ -28,9 +28,9 @@ revised, add a comment to the issue and get a discussion going!
 
 ## Proposal Selection
 
-Each proposal will have 1-2 minutes at the start of the hackathon to give a brief pitch.
-After the pitches, we will break off into smaller groups to focus on the proposals that
-generate the most interest and engagement.
+Proposals with most the most interest and engagement (via comments on the project
+proposal) will be selected. Projects will be selected before the start of the hackathon
+to have more coding time.
 
 ## Connecting to Guest WiFi
 
