@@ -1,7 +1,6 @@
 name: project proposal
-description: GKS Connect Hackathon 2026 Project Proposal
+description: Future Hackathon Project Proposal
 title: "[Project title]"
-labels: GA4GH-Connect-2026
 
 body:
   - type: input
