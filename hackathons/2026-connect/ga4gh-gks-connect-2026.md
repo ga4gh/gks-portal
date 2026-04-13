@@ -63,4 +63,6 @@ Broad Institute, Dana-Farber Cancer Institute, Epic, Geisinger, GENEX, Inc., Har
 Medical Foundation, Mayo Clinic, Nationwide Children's, UC Santa Cruz Genomics Institute,
 University of Melbourne, University of Virginia, and University of Zurich).
 
+![Hackathon participants](./participants.JPG)
+
 See our [report out](./GKS%20Pre-Connect%20Hackathon%202026%20-%20Report%20Out.pdf).
