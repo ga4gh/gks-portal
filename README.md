@@ -28,5 +28,5 @@ either create a new issue or discussion.
 ## Past Hackathons
 
 * [ISMB 2022](https://github.com/ga4gh/vrs-hackathons)
-* [ASHG Unconference 2024](./archived_event_readmes/ashg-unconference-2024.md)
-* [GA4GH GKS Connect 2025](./archived_event_readmes/ga4gh-gks-connect-2025.md)
+* [ASHG Unconference 2024](./hackathons/2024-ashg/ashg-unconference-2024.md)
+* [GA4GH GKS Connect 2025](./hackathons/2025-connect/ga4gh-gks-connect-2025.md)
