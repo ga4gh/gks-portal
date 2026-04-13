@@ -55,3 +55,12 @@ Location: [McGill Genome Centre](https://maps.app.goo.gl/BCkUEY8r7rihyNPr9)
 
 If you have any questions, please open a discussion
 [here](https://github.com/ga4gh/gks-portal/discussions).
+
+## Outcomes
+
+We had 21 participants from 13 different organizations (Baylor College of Medicine,
+Broad Institute, Dana-Farber Cancer Institute, Epic, Geisinger, GENEX, Inc., Hartwig
+Medical Foundation, Mayo Clinic, Nationwide Children's, UC Santa Cruz Genomics Institute,
+University of Melbourne, University of Virginia, and University of Zurich).
+
+See our [report out](./GKS%20Pre-Connect%20Hackathon%202026%20-%20Report%20Out.pdf).
