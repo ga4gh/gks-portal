@@ -58,10 +58,21 @@ If you have any questions, please open a discussion
 
 ## Outcomes
 
-We had 21 participants from 13 different organizations (Baylor College of Medicine,
-Broad Institute, Dana-Farber Cancer Institute, Epic, Geisinger, GENEX, Inc., Hartwig
-Medical Foundation, Mayo Clinic, Nationwide Children's, UC Santa Cruz Genomics Institute,
-University of Melbourne, University of Virginia, and University of Zurich).
+We had 21 participants from 13 different organizations:
+
+1. Baylor College of Medicine
+1. Broad Institute
+1. Dana-Farber Cancer Institute
+1. Epic
+1. Geisinger
+1. GENEX, Inc.
+1. Hartwig Medical Foundation
+1. Mayo Clinic
+1. Nationwide Children's Hospital
+1. UC Santa Cruz Genomics Institute
+1. University of Melbourne
+1. University of Virginia
+1. University of Zurich
 
 ![Hackathon participants](./participants.JPG)
 
