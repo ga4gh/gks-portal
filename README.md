@@ -7,7 +7,7 @@ This repository contains information on upcoming Global Alliance for Genomics an
 
 ### Upcoming Hackathons
 
-* [GA4GH GKS Connect 2026](./hackathons/ga4gh-gks-connect-2026.md): Monday, 13 April
+None at the moment ;(
 
 ### GKS Think Tank
 
@@ -30,3 +30,4 @@ either create a new issue or discussion.
 * [ISMB 2022](https://github.com/ga4gh/vrs-hackathons)
 * [ASHG Unconference 2024](./hackathons/2024-ashg/ashg-unconference-2024.md)
 * [GA4GH GKS Connect 2025](./hackathons/2025-connect/ga4gh-gks-connect-2025.md)
+* [GA4GH GKS Connect 2026](./hackathons/2026-connect/ga4gh-gks-connect-2026.md)
