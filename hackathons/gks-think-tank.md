@@ -55,6 +55,9 @@ GitHub project proposal issue.
 | 14:15 - 15:35 | Split out into breakout rooms |
 | 15:35 - 15:50 | Report Outcomes |
 
+> [!NOTE]
+> If you arrive late, when you join the main Zoom room it may be empty due to everyone being in breakout rooms. Click `Breakout Rooms` (you might need to click `More (...)` to see this) to display the list of open breakout rooms and join a room you would like to participate in. 
+
 ### After the GKS Think Tank meeting
 
 Project lead(s) should include a written report out in their respective GitHub project
